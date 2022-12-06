@@ -6,7 +6,7 @@
 
 - USDC: <https://goerli.etherscan.io/address/0x111F7ecAD08a6eFEB2BFd11C80C463c006dc6050>
 - BNC: <https://goerli.etherscan.io/address/0x9A2477B114a6F93dDa5473c5C8B8197f301E3C24>
-- ERC20: <https://goerli.etherscan.io/address/0x67D0D3864450B5e6A50a0C391Eb5EC7C27c524e9>
+- ERC20: <https://goerli.etherscan.io/address/0x6E93da669b5f782086Fe64F81dA49f2141bae59B>
 
 ## Commands
 

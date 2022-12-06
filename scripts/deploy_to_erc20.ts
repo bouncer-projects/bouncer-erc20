@@ -1,8 +1,8 @@
 import { ethers } from "hardhat";
 
 async function main() {
-  const name = "USD Coin"
-  const symbol = "USDC"
+  const name = "ERC20 Token"
+  const symbol = "ERC20"
   const decimal = 18
 
   const BouncerErc20 = await ethers.getContractFactory("BouncerErc20");
